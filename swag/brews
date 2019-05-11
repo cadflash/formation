@@ -6,4 +6,8 @@ wget
 hub
 hugo
 yarn
-rbenv
+ffmpeg
+openssl
+youtube-dl
+zsh
+node
